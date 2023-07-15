@@ -6,9 +6,11 @@ keel
 pasta
 chicken fry
 
+beans
+piza
 
 
 thank you
-
-
+done my changes
 final copy
+
